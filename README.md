@@ -48,5 +48,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 
 <img src="assets/1.jpg" width="300">
-<img src="assets/2.jpg">
-<img src="assets/3.jpg">
+<img src="assets/2.jpg" width="300">
+<img src="assets/3.jpg" width="300">
