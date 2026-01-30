@@ -12,7 +12,7 @@
 
 > **"Turn your daily chores into an epic adventure."**
 
-**Sidequest** is a gamified productivity app built with **Flutter**. It transforms mundane daily tasks into RPG-style "contracts," rewarding users with XP, streaks, and rank progression. Designed with a sleek, dark **Glassmorphism UI** It helps users build habits in Fitness, Knowledge, Mindfulness, and Creativity.
+**Sidequest** is a gamified productivity app built with **Flutter**. It transforms mundane daily tasks into RPG-style "contracts," rewarding users with XP, streaks, and rank progression. Designed with a sleek, dark **Glassmorphism UI**. My app helps users build habits in Fitness, Knowledge, Mindfulness, and Creativity.
 
 ---
 
