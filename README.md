@@ -44,3 +44,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 *Built with ❤️ and ☕ by Jusťák*
+
+
+
+<img src="assets/1.jpg">
+<img src="assets/2.jpg">
+<img src="assets/3.jpg">
